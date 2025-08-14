@@ -6,7 +6,7 @@
 
 ## 🎮 플레이가능 빌드 (현재 스팩은 20명서버제한이있습니다 - 스팀출시를 위해 개선중입니다.)
 https://drive.google.com/file/d/1ScFXoNUl5UiAilYnGFbbJAxScSuqN5pN/view?usp=drive_link
-
+해당 파일을 받아 압축해제하고 Inkoid.exe를 실행하면 접속이 가능합니다.
 
 ## 🎮 트레일러
 https://drive.google.com/file/d/1Rhk1LjSxFAOiUhMAcSyACAufEVabcikV/view?usp=drive_link
