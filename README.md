@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1Rhk1LjSxFAOiUhMAcSyACAufEVabcikV/view?usp=drive
 ## 🎮 시연영상
 https://drive.google.com/file/d/1g4Ko9bxFdURumAZlQDzFPFBnMUT5AGGk/view?usp=sharing
 
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/02342577-b631-48ba-b04b-30dde7cad8c7" />
+<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/02342577-b631-48ba-b04b-30dde7cad8c7" />
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/77e1011e-12d6-4c89-b09a-802f16eb8515" />
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/e4d1beb0-5f1e-48a5-a666-8e4aa5082091" />
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/e972b7d3-9c16-47d1-a5fe-1240ed61d444" />
