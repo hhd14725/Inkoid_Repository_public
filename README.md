@@ -128,3 +128,6 @@ SpaceSplattoon-develop/
 ---
 
 피드백이나 질문이 있다면 언제든지 GitHub 이슈를 통해 알려주세요.
+
+혹은 
+hhd14725@gmail.com 을 통해 연락부탁드립니다.
