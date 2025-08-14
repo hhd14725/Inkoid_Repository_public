@@ -15,12 +15,12 @@ https://drive.google.com/file/d/1Rhk1LjSxFAOiUhMAcSyACAufEVabcikV/view?usp=drive
 https://drive.google.com/file/d/1g4Ko9bxFdURumAZlQDzFPFBnMUT5AGGk/view?usp=sharing
 
 <img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/02342577-b631-48ba-b04b-30dde7cad8c7" />
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/77e1011e-12d6-4c89-b09a-802f16eb8515" />
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/e4d1beb0-5f1e-48a5-a666-8e4aa5082091" />
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/e972b7d3-9c16-47d1-a5fe-1240ed61d444" />
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/ed483074-495f-46ca-ab00-08e46aca5885" />
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/3ba5a2b7-8083-486e-ab1b-5f6d53a34d89" />
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/970f6cbe-1665-4f36-ba0f-ed7ecca55e48" />
+<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/77e1011e-12d6-4c89-b09a-802f16eb8515" />
+<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/e4d1beb0-5f1e-48a5-a666-8e4aa5082091" />
+<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/e972b7d3-9c16-47d1-a5fe-1240ed61d444" />
+<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/ed483074-495f-46ca-ab00-08e46aca5885" />
+<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/3ba5a2b7-8083-486e-ab1b-5f6d53a34d89" />
+<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/970f6cbe-1665-4f36-ba0f-ed7ecca55e48" />
 
 
 ## 🌟 주요 특징
