@@ -1,8 +1,19 @@
 # 🚀 Space Splattoon 🚀
+<img width="380" height="206" alt="image" src="https://github.com/user-attachments/assets/de1aee60-11fe-4a77-8d1b-ab02514c4f68" />
 
 ![Game Banner](https://via.placeholder.com/800x300.png?text=Space+Splattoon)
 
 **Space Splattoon**은 Unity 엔진으로 제작된 3인칭 아레나 슈팅 게임입니다. 플레이어는 두 팀으로 나뉘어 잉크를 쏘아 맵의 거점을 점령하고, 제한 시간 내에 더 많은 거점을 차지하는 팀이 승리합니다. 이 프로젝트는 실시간 멀티플레이, 페인팅 시스템, 그리고 Unity의 기술 스택을 깊이 있게 활용하는 것을 목표로 합니다.
+
+## 🎮 플레이가능 빌드 (현재 스팩은 20명서버제한이있습니다 - 스팀출시를 위해 개선중입니다.)
+https://drive.google.com/file/d/1ScFXoNUl5UiAilYnGFbbJAxScSuqN5pN/view?usp=drive_link
+
+
+## 🎮 트레일러
+https://drive.google.com/file/d/1Rhk1LjSxFAOiUhMAcSyACAufEVabcikV/view?usp=drive_link
+
+## 🎮 시연영상
+https://drive.google.com/file/d/1g4Ko9bxFdURumAZlQDzFPFBnMUT5AGGk/view?usp=sharing
 
 ## 🌟 주요 특징
 
