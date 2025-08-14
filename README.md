@@ -1,7 +1,6 @@
 # 🚀 Space Splattoon 🚀
 <img width="380" height="206" alt="image" src="https://github.com/user-attachments/assets/de1aee60-11fe-4a77-8d1b-ab02514c4f68" />
 
-![Game Banner](https://via.placeholder.com/800x300.png?text=Space+Splattoon)
 
 **Space Splattoon**은 Unity 엔진으로 제작된 3인칭 아레나 슈팅 게임입니다. 플레이어는 두 팀으로 나뉘어 잉크를 쏘아 맵의 거점을 점령하고, 제한 시간 내에 더 많은 거점을 차지하는 팀이 승리합니다. 이 프로젝트는 실시간 멀티플레이, 페인팅 시스템, 그리고 Unity의 기술 스택을 깊이 있게 활용하는 것을 목표로 합니다.
 
@@ -14,6 +13,15 @@ https://drive.google.com/file/d/1Rhk1LjSxFAOiUhMAcSyACAufEVabcikV/view?usp=drive
 
 ## 🎮 시연영상
 https://drive.google.com/file/d/1g4Ko9bxFdURumAZlQDzFPFBnMUT5AGGk/view?usp=sharing
+
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/02342577-b631-48ba-b04b-30dde7cad8c7" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/77e1011e-12d6-4c89-b09a-802f16eb8515" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/e4d1beb0-5f1e-48a5-a666-8e4aa5082091" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/e972b7d3-9c16-47d1-a5fe-1240ed61d444" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/ed483074-495f-46ca-ab00-08e46aca5885" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/3ba5a2b7-8083-486e-ab1b-5f6d53a34d89" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/970f6cbe-1665-4f36-ba0f-ed7ecca55e48" />
+
 
 ## 🌟 주요 특징
 
@@ -112,6 +120,10 @@ SpaceSplattoon-develop/
 *   **그래플링 훅은 생명줄입니다**: 그래플링 훅은 단순한 이동기가 아닌, 생존과 공격의 흐름을 바꾸는 핵심 기술입니다. 위험할 때 탈출하거나, 고지대를 점령하고, 적의 허를 찌르는 용도 외에도, **자신이 칠한 잉크에 훅을 맞춰 잉크를 빠르게 회복**하는 것이 매우 중요합니다. 이를 통해 끊임없이 공격의 흐름을 이어갈 수 있습니다.
 *   **거점을 중심으로 움직이세요**: 맵을 넓게 칠하는 것보다 거점을 확실하게 점령하고 지키는 것이 승리의 열쇠입니다. 팀원들과 함께 주요 길목을 차단하고 거점을 방어하세요.
 *   **잉크는 생명입니다**: 잉크는 공격, 이동(대시) 등 모든 행동에 필요한 핵심 자원입니다. 항상 잉크 잔량을 확인하고, 부족할 때는 잠시 전투를 피하며 잉크를 회복하는 것이 중요합니다.
+
+## 🛠️ 유저테스트를 통한 보완 사항
+<img width="817" height="1190" alt="image" src="https://github.com/user-attachments/assets/57990a7c-88ac-4da7-88fd-8ff29d28ee62" />
+
 
 ---
 
